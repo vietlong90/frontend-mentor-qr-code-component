@@ -42,10 +42,12 @@ body {
   font-size: 22px;
   line-height: 120%;
   letter-spacing: 0;
+  display: block;
 }
 .card__description {
   font-size: 15px;
   color: #68778D;
   line-height: 140%;
   letter-spacing: 0.2px;
+  display: block;
 }
